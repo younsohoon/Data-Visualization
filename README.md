@@ -1,3 +1,1 @@
-# Visualization
-
-STATS + STORIES 300th Episode Data Visualization Contest
+# STATS + STORIES 300th Episode Data Visualization Contest
